@@ -15,3 +15,5 @@ How to use
 
 Warning
 Using some websites for crawling might block your I.P address for that particular website for some time. Though delays can be introduced to eliminate the problem.
+
+A TODO is specified in the source code(crawlerMain.py) which might require some attention based the website being used for crawling.
